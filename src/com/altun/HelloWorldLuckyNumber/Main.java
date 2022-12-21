@@ -19,6 +19,8 @@ public class Main {
         System.out.println("Geef naam op:");
         String userName = userInteraction.next();
         //cause .next can catch every datatype
+	    
+	    // CONCATENATION EXAMPLE
 
         System.out.println("Uw naam is " + userName + " en uw geluksnummer is " + number + ".");
 
