@@ -24,7 +24,5 @@ public class Main {
 
         System.out.println("Uw naam is " + userName + " en uw geluksnummer is " + number + ".");
 
-
-
     }
 }
